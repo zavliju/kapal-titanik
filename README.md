@@ -1,3 +1,3 @@
 # kapal-titanik
 
-Just try solving one of Kaggle task using Apache Spark.
+Just try to solving one of Kaggle task using Apache Spark.
